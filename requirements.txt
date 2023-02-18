@@ -1,3 +1,4 @@
-flask_socketio
+flask-socketio
 Flask~=2.2.2
 websockets~=10.4
+Flask-APScheduler
